@@ -24,8 +24,13 @@ cd Crop-Yield-Predictor
 ```bash
 npm install
 ```
+3. Run the app.py flask file:
 
-3. Start the development server:
+```bash
+python app.py
+```
+
+4. Start the development server:
 
 ```bash
 npm start
