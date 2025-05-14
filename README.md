@@ -1,6 +1,6 @@
 # Crop Yield Predictor Web Application
 
-This is a modern web application built using React JS, HTML, and CSS to provide an interactive and user-friendly interface for predicting crop yields. This frontend interface works with the underlying crop yield prediction model developed using XGBoost.
+This is a modern web application built using React JS, HTML, and CSS to provide an interactive and user-friendly interface for predicting crop yields. This frontend interface works with the underlying crop yield prediction model developed using XGBoost. Check the source code for this model - [Source Code for the model](https://github.com/vivekzsan/Crop-Yield-Prediction-Using-XGBoost)
  
 ## Getting Started
 
